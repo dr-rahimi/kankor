@@ -1,13 +1,13 @@
 var cacheName = 'kankor-pwa';
 var filesToCache = [
-  '/',
-  '/index.html',
-  '/css/main.css',
-  '/js/main.js',
-	'/js/materialize.min.js',
-	'/dbs/db.json',
-  '/dbs/subjectDB.json',
-	'/dbs/pages.json'
+  '/kankor/',
+  '/kankor/index.html',
+  '/kankor/css/main.css',
+  '/kankor/js/main.js',
+  '/kankor/js/materialize.min.js',
+  '/kankor/dbs/db.json',
+  '/kankor/dbs/subjectDB.json',
+  '/kankor/dbs/pages.json'
 ];
 
 /* Start the service worker and cache all of the app's content */
