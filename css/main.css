@@ -1,0 +1,80 @@
+body{
+  direction : rtl;
+  user-select: none;
+}
+.typeset{
+    direction: ltr;
+    display: inline-block;
+}
+.result_show{
+    text-align: center;
+    background-color: #cae8ca;
+    border-width: 3px;
+    border-style: solid;
+
+    position: fixed;
+    width: fit-content;
+    height: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+    top: 50%;
+    left: 0;
+    right: 0;
+
+}
+#transparent{
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 100%;
+    opacity: 0.2;
+    background-color: black;
+}
+
+/*
+materialize.css corrections
+*/
+.nav-wrapper{
+	direction : initial;
+}
+.collection{
+	direction:ltr;
+}
+label{
+	display: block;
+	padding: 15px 5px;
+}
+[type="radio"]:not(:checked)+span, [type="radio"]:checked+span{
+	padding-right: 35px;
+}
+[type="radio"]+span:before, [type="radio"]+span:after{
+	right: 0;
+}
+[type="radio"]+span:before, [type="radio"]+span:after{
+	right: 0;
+}
+
+th, td{
+	text-align: right;
+	padding: 0;
+}
+th{
+	padding: 15px 5px;
+}
+
+
+
+span.badge.new:after{
+    content: "";
+}
+.sidenav{
+    padding-right: 0px;
+}
+
+.equation{
+    
+		display: inline-block;
+}
+a{
+	
+}

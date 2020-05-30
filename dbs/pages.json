@@ -1,0 +1,20 @@
+{
+    "records":[
+        {
+            "page":"home",
+            "title":"صفحه اصلی",
+            "content":"<h1 class='right'>آکادمی کانکور</h1><h2 class='right'>اولین برنامه آنلاین پیشرفته کانکوری<br/><br/><a class='waves-effect waves-light btn' onclick='pageChanger(1)'>آزمون های آزمایشی</a></h2>"
+        },
+        {
+            "page":"questions",
+            "title":"سوالات",
+            "content":"<ul id ='subjectTab' class='collapsible'></ul><ol id='questionSet'></ol><div id='modaltrigger' class='container center-align'></div>"
+        },
+        {
+            "page":"about",
+            "title":"درباره ما",
+            "content":"<h1 class='right'>آکادمی کانکور</h1><h2 class='right'>اولین برنامه آنلاین پیشرفته کانکوری<br/><br/><div>used projects:<ul><li>Progressive Web Apps (PWA)</li><li>jsMath</li><li>TeX</li><li>Materialize</li></ul></div><br/><a class='waves-effect waves-light btn' onclick='pageChanger(1)'>آزمون های آزمایشی</a></h2>"
+        }
+    ]
+    
+}
