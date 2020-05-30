@@ -2,36 +2,36 @@
   "name": "Kankor PWA",
   "short_name": "KA",
   "icons": [{
-    "src": "images/kankor-icon-128.png",
+    "src": "/kankor/images/kankor-icon-128.png",
       "sizes": "128x128",
       "type": "image/png"
     }, {
-      "src": "images/kankor-icon-144.png",
+      "src": "/kankor/images/kankor-icon-144.png",
       "sizes": "144x144",
       "type": "image/png"
     }, {
-      "src": "images/kankor-icon-152.png",
+      "src": "/kankor/images/kankor-icon-152.png",
       "sizes": "152x152",
       "type": "image/png"
     }, {
-      "src": "images/kankor-icon-192.png",
+      "src": "/kankor/images/kankor-icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     }, {
-      "src": "images/kankor-icon-256.png",
+      "src": "/kankor/images/kankor-icon-256.png",
       "sizes": "256x256",
       "type": "image/png"
     }, {
-      "src": "images/kankor-icon-512.png",
+      "src": "/kankor/images/kankor-icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }, {
-      "src": "images/kankor-icon-1024.png",
+      "src": "/kankor/images/kankor-icon-1024.png",
       "sizes": "1024x1024",
       "type": "image/png"
     }],
   "lang": "en-US",
-  "start_url": "/index.html",
+  "start_url": "/kankor/index.html",
   "display": "standalone",
   "background_color": "white",
   "theme_color": "white"
